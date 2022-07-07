@@ -1,0 +1,30 @@
+#foto-sobre{
+  height: 350px;
+  border-radius: 100%;
+}
+
+#sobre-texto {
+  width: 75%;
+  color: #a1aaa6;
+  font-size: 20px;
+  font-weight: 400;
+  text-align: left;
+}
+
+#sobre-ti {
+  font-weight: 400;
+  font-size: 30px;
+  margin: 0px;
+  color:#b4c0bb;
+}
+#sobre {
+  background-color: #000000;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width: 92%;
+}
+
+
+

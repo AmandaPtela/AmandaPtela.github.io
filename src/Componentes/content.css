@@ -1,0 +1,24 @@
+.geral-conteudo {
+  background-color: black;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 10px;
+}
+
+.conteudo {
+  display: flex;
+  flex-direction: column;
+  width: 20%;
+}
+
+.projetos {
+  padding: 20px;
+  width: 80%;
+}
+
+.geral-projetos {
+  color: aliceblue;
+  display: flex;
+  flex-direction: row;
+}

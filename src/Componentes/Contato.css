@@ -1,0 +1,38 @@
+#icone-redes {
+  height: 350px;
+  border-radius: 100%;
+  border-style: solid;
+  border-width: 0.2cm;
+  border-color: #327762;
+}
+
+#contato-ti{
+  font-weight: 400;
+  font-size: 30px;
+  margin: 0px;
+  line-height: 50px;
+  color:#b4c0bb;
+}
+
+#contato{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: fit-content;
+  text-align: center;
+  margin-bottom: 85px;
+  padding: 15px;
+  width:90%;
+}
+
+#icones{
+  width: 60%;
+  text-align: center;
+  align-items: center;
+}
+
+#rede-2, #rede-4, #rede-3, #rede-1 {
+  width: 195px;
+  height: 55px;
+  border-radius: 8em;
+}
