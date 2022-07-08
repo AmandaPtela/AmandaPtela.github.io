@@ -6,7 +6,7 @@ class Contato extends React.Component {
     return (
       <div id="contato">
         <section id="icones">
-            <p id="contato-ti"> Contato </p>
+            <p id="contato-ti"> Contaato </p>
             <a href="https://instagram.com/manda1_6"><img  alt="" height="10px" width="10px" id="rede-1"
                  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
                 target="_blank"/></a>
